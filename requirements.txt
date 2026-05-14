@@ -1,2 +1,5 @@
 streamlit
-requirements.txt 
+numpy
+matplotlib
+pillow
+japanize-matplotlib
